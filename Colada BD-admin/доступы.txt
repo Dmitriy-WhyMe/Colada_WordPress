@@ -1,0 +1,8 @@
+База данных
+colada_wp
+root
+root
+
+Админка
+admin
+Daskabash
